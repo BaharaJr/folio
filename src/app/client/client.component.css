@@ -1,0 +1,27 @@
+.client-wrapper {
+  display: flex;
+  flex-direction: row;
+  height: 400px;
+}
+
+.client-image {
+  padding: 50px;
+  height: 300px;
+  width: 50%;
+  overflow: hidden;
+}
+
+.client-image img {
+  max-width: 100%;
+  display: block;
+}
+
+.client-text {
+  padding: 30px;
+}
+
+ul {
+  padding: 0;
+}
+
+
