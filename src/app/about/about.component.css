@@ -1,0 +1,21 @@
+.about{
+    display: flex;
+    flex-direction: row;
+}
+.paragraph{
+    padding: 5%;
+    float: left;
+}
+.hello{
+    float: right;
+    margin: 80px;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
+.hello h1 {
+    font-size:60pt;
+}
+.hello h3 {
+    font-size:35pt;
+}
