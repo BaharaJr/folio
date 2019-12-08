@@ -1,0 +1,14 @@
+.login-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    flex-direction: column;
+    background:black;
+}
+
+.login-form{
+    display: flex;
+    flex-direction: column;
+}

@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  serverUrl: 'https://folioapp-daas.bfast.fahamutech.com'
 };
